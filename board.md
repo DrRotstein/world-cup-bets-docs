@@ -7,10 +7,17 @@ _Updated: 2026-06-27T10:50:00Z_
 | ID | Title | Status | Stories | Priority |
 |---|---|---|---|---|
 | EPIC-01 | Onboarding & stack selection | done | — | P0 |
+| EPIC-02 | MVP Core — Groups, Betting, Leaderboard | ready | S-01, S-02, S-03, S-04, S-05 | P0 |
 
 ## Stories
 
-_(empty until first Epic decomposes)_
+| ID | Title | Status | Owner | Priority | Depends on |
+|---|---|---|---|---|---|
+| S-01 | Lightweight auth (Google OAuth) | ready | backend | P0 | EPIC-01 |
+| S-02 | Groups & invite links | ready | backend | P0 | S-01 |
+| S-03 | Match data sync | ready | backend | P0 | EPIC-01 |
+| S-04 | Place bets | ready | backend | P0 | S-01, S-02, S-03 |
+| S-05 | Leaderboard | ready | backend | P0 | S-03, S-04 |
 
 ## Tasks
 
