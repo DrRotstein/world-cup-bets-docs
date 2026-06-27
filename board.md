@@ -6,7 +6,7 @@ _Updated: 2026-06-27T10:50:00Z_
 
 | ID | Title | Status | Stories | Priority |
 |---|---|---|---|---|
-| EPIC-01 | Onboarding & stack selection | ready | — | P0 |
+| EPIC-01 | Onboarding & stack selection | done | — | P0 |
 
 ## Stories
 
