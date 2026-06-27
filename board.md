@@ -14,7 +14,7 @@ _Updated: 2026-06-27T12:35:00Z_
 | ID | Title | Status | Owner | Priority | Depends on |
 |---|---|---|---|---|---|
 | S-01 | Lightweight auth (Google OAuth) | done | backend | P0 | EPIC-01 |
-| S-02 | Groups & invite links | in_progress | backend | P0 | S-01 |
+| S-02 | Groups & invite links | in_review | backend | P0 | S-01 |
 | S-03 | Match data sync | done | backend | P0 | EPIC-01 |
 | S-04 | Place bets | ready | backend | P0 | S-01, S-02, S-03 |
 | S-05 | Leaderboard | ready | backend | P0 | S-03, S-04 |
