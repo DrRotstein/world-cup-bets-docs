@@ -7,7 +7,7 @@ _Updated: 2026-06-27T12:35:00Z_
 | ID | Title | Status | Stories | Priority |
 |---|---|---|---|---|
 | EPIC-01 | Onboarding & stack selection | done | — | P0 |
-| EPIC-02 | MVP Core — Groups, Betting, Leaderboard | in_progress | S-01, S-02, S-03, S-04, S-05 | P0 |
+| EPIC-02 | MVP Core — Groups, Betting, Leaderboard | in_progress (backend done, frontend next) | S-01, S-02, S-03, S-04, S-05 | P0 |
 
 ## Stories
 
@@ -17,7 +17,7 @@ _Updated: 2026-06-27T12:35:00Z_
 | S-02 | Groups & invite links | done | backend | P0 | S-01 |
 | S-03 | Match data sync | done | backend | P0 | EPIC-01 |
 | S-04 | Place bets | done | backend | P0 | S-01, S-02, S-03 |
-| S-05 | Leaderboard | in_review | backend | P0 | S-03, S-04 |
+| S-05 | Leaderboard | done | backend | P0 | S-03, S-04 |
 
 ## Tasks
 
